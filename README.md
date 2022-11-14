@@ -1,3 +1,3 @@
 # Usaco_Guide
-yup new UsacoGuide ;(
-#Imagine doing cp at school couldn't be me
+yup new UsacoGuide ;(__
+Imagine doing cp at school couldn't be me
