@@ -4,11 +4,11 @@
 using namespace std;
 
 int main() {
-	ios::sync_with_stdio(false); 
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
 
-	freopen("gymnastics.in", "r", stdin);
-	freopen("gymnastics.out", "w", stdout);
+    freopen("gymnastics.in", "r", stdin);
+    freopen("gymnastics.out", "w", stdout);
 	
     int grid[21][21] = {0};
     int k, n;
