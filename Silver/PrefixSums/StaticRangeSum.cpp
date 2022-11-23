@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int arry[500001];
+long long arry[500001];
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
     cin>>n>>q;
     
     
-    int temp;
+    long long temp;
     cin>>temp;
     arry[0] = temp;
     for (int i = 1; i<n; i++) {
