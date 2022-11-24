@@ -1,3 +1,4 @@
 # Usaco_Guide
 Imagine doing cp at school couldn't be me <br />
-As of Nov 20 2022 all are uploaded on my school chromebook lol
+I definitely did not do all the problems <br />
+Mainly did ones with stars next to it <br />
