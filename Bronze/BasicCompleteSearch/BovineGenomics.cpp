@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    cin.tie(nullptr);
 
 	freopen("cownomics.in", "r", stdin);
 	freopen("cownomics.out", "w", stdout);
