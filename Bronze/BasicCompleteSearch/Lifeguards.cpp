@@ -8,10 +8,10 @@ int arry[1001] = {0};
 
 int main() {
     ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    cin.tie(nullptr);
 
-	freopen("lifeguards.in", "r", stdin);
-	freopen("lifeguards.out", "w", stdout);
+    freopen("lifeguards.in", "r", stdin);
+    freopen("lifeguards.out", "w", stdout);
     
     int n;
     
