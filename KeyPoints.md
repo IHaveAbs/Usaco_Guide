@@ -1,4 +1,4 @@
-HIII <br />
+Hi <br />
 
-Integer overflow? Just add #define int long long and then change function return value type to signed <br />
-#define endl "\n" pretty cool becuz "\n" faster than endl with fast input <br />
+Why don't I identify problems based on the date and problem number? <br />
+It's pretty confusing to find. <br />
